@@ -1,0 +1,8 @@
+1
+Take a nap
+2
+Eat a bowl of ramen
+3
+Take another nap
+4
+Write code
